@@ -1,4 +1,3 @@
-# springboot整合swagger2
 # Spring boot 整合 Swagger
 
 #### 本文github位置：<https://github.com/WillVi/springboot-swagger2-demo>
